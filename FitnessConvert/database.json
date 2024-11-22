@@ -1,0 +1,188 @@
+{
+    "history": [
+        {
+            "distance": 3,
+            "calories": 122.4,
+            "steps": 3600,
+            "speed": "Rendah",
+            "username": "andri"
+        },
+        {
+            "distance": 5,
+            "calories": 204,
+            "steps": 6000,
+            "speed": "Rendah",
+            "username": "andri"
+        },
+        {
+            "distance": 68,
+            "calories": 3468,
+            "steps": 102000,
+            "speed": "Sedang",
+            "username": "andri"
+        },
+        {
+            "distance": 5,
+            "calories": 243.75,
+            "steps": 7500,
+            "speed": "Sedang",
+            "username": "andri"
+        },
+        {
+            "distance": 5,
+            "calories": 195,
+            "steps": 6000,
+            "speed": "Rendah",
+            "username": "andri"
+        },
+        {
+            "distance": 5,
+            "calories": 204,
+            "steps": 6000,
+            "speed": "Rendah",
+            "username": "andri"
+        },
+        {
+            "distance": 3,
+            "calories": 153,
+            "steps": 4500,
+            "speed": "Sedang",
+            "username": "andri"
+        },
+        {
+            "distance": 3,
+            "calories": 117,
+            "steps": 3600,
+            "speed": "Rendah",
+            "username": "aufan"
+        },
+        {
+            "distance": 6,
+            "calories": 234,
+            "steps": 7200,
+            "speed": "Rendah",
+            "username": "andrea"
+        },
+        {
+            "distance": 6,
+            "calories": 292.5,
+            "steps": 9000,
+            "speed": "Sedang",
+            "username": "andrea"
+        },
+        {
+            "distance": 6,
+            "calories": 351,
+            "steps": 10800,
+            "speed": "Tinggi",
+            "username": "andrea"
+        },
+        {
+            "distance": 65,
+            "calories": 2535,
+            "steps": 78000,
+            "speed": "Rendah",
+            "username": "andrea"
+        },
+        {
+            "distance": 4,
+            "calories": 156,
+            "steps": 4800,
+            "speed": "Rendah",
+            "username": "andreeaa"
+        },
+        {
+            "distance": 4,
+            "calories": 195,
+            "steps": 6000,
+            "speed": "Sedang",
+            "username": "andreeaa"
+        },
+        {
+            "distance": 4,
+            "calories": 234,
+            "steps": 7200,
+            "speed": "Tinggi",
+            "username": "andreeaa"
+        },
+        {
+            "distance": 5,
+            "calories": 204,
+            "steps": 6000,
+            "speed": "Rendah",
+            "username": "andreeaa"
+        },
+        {
+            "distance": 4,
+            "calories": 156,
+            "steps": 4800,
+            "speed": "Rendah",
+            "username": "andreeaa"
+        },
+        {
+            "distance": 4,
+            "calories": 195,
+            "steps": 6000,
+            "speed": "Sedang",
+            "username": "andreeaa"
+        },
+        {
+            "distance": 6,
+            "calories": 292.5,
+            "steps": 9000,
+            "speed": "Sedang",
+            "username": "andreeaa"
+        },
+        {
+            "distance": 9,
+            "calories": 526.5,
+            "steps": 16200,
+            "speed": "Tinggi",
+            "username": "andreeaa"
+        },
+        {
+            "distance": 2,
+            "calories": 117,
+            "steps": 3600,
+            "speed": "Tinggi",
+            "username": "andreeaa"
+        },
+        {
+            "distance": 4,
+            "calories": 234,
+            "steps": 7200,
+            "speed": "Tinggi",
+            "username": "andreeaa"
+        }
+    ],
+    "users": [
+        {
+            "password": "123",
+            "weight": 68,
+            "username": "andri",
+            "height": 168
+        },
+        {
+            "password": "",
+            "username": ""
+        },
+        {
+            "password": "123",
+            "weight": 65,
+            "username": "aufan",
+            "height": 175
+        },
+        {
+            "password": "123",
+            "weight": 65,
+            "username": "andrea",
+            "height": 168
+        },
+        {
+            "password": "123",
+            "weight": 65,
+            "username": "andreeaa",
+            "height": 168
+        }
+    ]
+}
